@@ -16,9 +16,9 @@
 
 [img](https://avatars.mds.yandex.net/i?id=b5c39b51d5405876c013c3fb10dbd667d42bae06-5083805-images-thumbs&n=13 "open") 
 
-'''
-  print (12345)
-'''
+```
+print(12345)
+```
 
 |Название|пример|применение|
 |-|-|-|
