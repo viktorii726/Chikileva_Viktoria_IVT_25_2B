@@ -1,3 +1,4 @@
-# Чикилева Виктория [img] (<img width="989" height="1280" alt="image" src="https://github.com/user-attachments/assets/b154cc03-70be-4096-b660-d3ff7a9cf0f3" />
+# Чикилева Виктория [img] (<img width="681" height="772" alt="image" src="https://github.com/user-attachments/assets/22d7e7ec-01f6-4fb9-b2e3-fba3a52f3a8b" />
+
 )
 
