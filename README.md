@@ -1,4 +1,9 @@
-# Чикилева Виктория [img] ([<img width="681" height="772" alt="image" src="https://github.com/user-attachments/assets/22d7e7ec-01f6-4fb9-b2e3-fba3a52f3a8b" />](https://private-user-images.githubusercontent.com/231184913/488430000-22d7e7ec-01f6-4fb9-b2e3-fba3a52f3a8b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc2MDc3MTIsIm5iZiI6MTc1NzYwNzQxMiwicGF0aCI6Ii8yMzExODQ5MTMvNDg4NDMwMDAwLTIyZDdlN2VjLTAxZjYtNGZiOS1iMmUzLWZiYTNhNTJmM2E4Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxMVQxNjE2NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNDFmMjk5NGM1YTg4ZDFhNjAxNzU2NmEzNWU1M2M1NDYzNGY1ZTU2NjViNDAzMzBjZTkzZGJiMzA0OGM1NmU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iWMjXhqmZqpXFbMZMw9oYcpX6ryn_86HZAnXZmTzTrg)
+# Чикилева Виктория 
 
-)
+## Семестр 1
+
+|№|Название |Статус|
+|-|-|-|
+|1|||
+|2|||
 
