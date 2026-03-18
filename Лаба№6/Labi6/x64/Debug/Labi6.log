@@ -1,0 +1,6 @@
+﻿  Labi6.cpp
+C:\Users\Вика\Desktop\проекты вижуал студио\Labi6\Labi6.cpp(21,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Вика\Desktop\проекты вижуал студио\Labi6\Labi6.cpp(44,21): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Вика\Desktop\проекты вижуал студио\Labi6\Labi6.cpp(64,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Вика\Desktop\проекты вижуал студио\Labi6\Labi6.cpp(65,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Вика\Desktop\проекты вижуал студио\Labi6\Labi6.cpp(66,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
