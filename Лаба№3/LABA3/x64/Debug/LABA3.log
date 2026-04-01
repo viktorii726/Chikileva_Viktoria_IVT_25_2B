@@ -1,0 +1,5 @@
+﻿  LABA3.cpp
+C:\Users\Вика\Desktop\проекты вижуал студио\LABA3\LABA3.cpp(22,19): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Вика\Desktop\проекты вижуал студио\LABA3\LABA3.cpp(25,25): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Вика\Desktop\проекты вижуал студио\LABA3\LABA3.cpp(37,16): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  LABA3.vcxproj -> C:\Users\Вика\Desktop\проекты вижуал студио\LABA3\x64\Debug\LABA3.exe
